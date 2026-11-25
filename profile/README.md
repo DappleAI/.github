@@ -13,7 +13,7 @@ Most people and teams can't turn an LLM into something they can rely on: results
 
 Index of papers and reports: [`research`](https://github.com/DappleAI/research)
 
-- [The DappleAI Litepaper - The Adaptive Orchestration Layer](https://drive.google.com/file/d/1ZCSckVl3HXk9MGz_Eq6oDzvK2SQ8D7mi/view?usp=sharing)
+- [The DappleAI Litepaper - The Adaptive Orchestration Layer](https://drive.google.com/file/d/1KKVgFmKSO5LD8N0ON9D692p1wxboYKBL/view?usp=sharing))
 - [Technical Thesis - A Multilayer Technical Stack for AI 2.0](https://drive.google.com/file/d/1gHs3BaBVtd7B7O_lyAbFQ4cGW4KgQppM/view?usp=sharing)
 - [Friction by Design: A Structural Analysis of AI’s Usability Crisis](https://drive.google.com/file/d/1b39S7Zpx2QXuShHl6llQYkXiUg6v0hg8/view?usp=sharing)
 - [The Imperfect, Fast-Growing Artificial Intelligence Market: An Analysis of the Current Waves](https://drive.google.com/file/d/1vrIJpnHKfXDfhKIY4LPWu384_QnSmFEX/view?usp=sharing)
