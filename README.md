@@ -21,8 +21,8 @@ Index of papers and reports: `research`
 
 ## **Core methods (patent pending)**
 
-- **Dual Phase Context Injection (DPCI):** [one sentence, at the level of the abstract]
-- **Domain Directed Execution and Task Packet Creation (DDE):** [one sentence, at the level of the abstract]
+- **Dual Phase Context Injection (DPCI):** the process of selecting, scoring, and strategically delivering only the most pertinent information to an LLM based on the task at hand, the user’s role, and the evolving needs of the interaction.
+- **Domain Directed Execution and Task Packet Creation (DDE):** DDE is a careful packager, it gathers the right ingredients, packs them into a neat Task Packet, and passes that packet to a different system (DPCI) 
 
 Inventors: Ebony Belhumeur[, other inventors exactly as on the filings]. How they're implemented: dapple-core › Core methods
 
