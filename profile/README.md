@@ -2,7 +2,7 @@
 
 **The adaptive orchestration layer between people and large language models.**
 
-Most people and teams can't turn an LLM into something they can rely on: results depend on how the question is asked, context gets lost, and every model needs a different approach. DappleAI closes that gap. A short guided interview captures what the user knows, packages it as structured context, and runs a repeatable workflow on whichever model fits the job. We built it over two years with input from 100+ customer interviews, and open-sourced the core.
+Most people and teams can't turn an LLM into something they can rely on: results depend on how the question is asked, context gets lost, and every model needs a different approach. DappleAI closes that gap. A short guided survey captures what the user knows, packages it as structured context, and runs a repeatable workflow on whichever model fits the job. We built it over two years with input from 100+ customer interviews, and open-sourced the core.
 
 - **Guided, not prompted.** Users pick a playbook and answer a short survey. They never have to write a prompt.
 - **Model-agnostic.** The same workflow runs on Claude, a local Mistral model, or a self-hosted model, by changing one configuration.
