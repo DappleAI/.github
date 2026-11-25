@@ -1,5 +1,3 @@
-# DappleAi
-**Dapple is an orchestration layer for LLMs that move user intent to output without prompting**
 # **DappleAI**
 
 **The adaptive orchestration layer between people and large language models.**
