@@ -39,4 +39,4 @@ Inventors: Ebony Belhumeur[, other inventors exactly as on the filings]. How the
 
 ## **More Info & Questions**
 
-dappleai.com · info@dappleai.com
+[dappleai.com](https://dappleai.com/) · info@dappleai.com
