@@ -37,6 +37,6 @@ Inventors: Ebony Belhumeur[, other inventors exactly as on the filings]. How the
 - **Contribute:** good first issues · Discussions
 - If it's useful, a ⭐ on dapple-core helps others find it.
 
-## **Team**
+## **More Info & Questions**
 
-Ebony Belhumeur, Operations Lead & Co-Founder · [Name], [Title] · [Name], [Title] Radical Ventures Founders Program · NVIDIA Inception [confirm wording]
+dappleai.com · info@dappleai.com
