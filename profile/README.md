@@ -11,7 +11,7 @@ Most people and teams can't turn an LLM into something they can rely on: results
 
 ## **Research**
 
-Index of papers and reports: `research`
+Index of papers and reports: [`research`](https://github.com/DappleAI/research)
 
 - [The DappleAI Litepaper - The Adaptive Orchestration Layer](https://drive.google.com/file/d/1ZCSckVl3HXk9MGz_Eq6oDzvK2SQ8D7mi/view?usp=sharing)
 - [Technical Thesis - A Multilayer Technical Stack for AI 2.0](https://drive.google.com/file/d/1gHs3BaBVtd7B7O_lyAbFQ4cGW4KgQppM/view?usp=sharing)
@@ -29,7 +29,7 @@ Inventors: Ebony Belhumeur[, other inventors exactly as on the filings]. How the
 ## **Open source**
 
 - [`dapple-core`](https://github.com/DappleAI/dapple-core): Rust engine for structured, model-agnostic LLM workflows (Postgres, Axum, OpenAPI 3.1, sandboxed Nushell execution). Apache-2.0.
-- `research`: the papers and reports above, with summaries
+- [`research`](https://github.com/DappleAI/research): the papers and reports above, with summaries
 
 ## **Try it**
 
