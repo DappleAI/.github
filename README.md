@@ -28,7 +28,7 @@ Inventors: Ebony Belhumeur[, other inventors exactly as on the filings]. How the
 
 ## **Open source**
 
-- `dapple-core`: Rust engine for structured, model-agnostic LLM workflows (Postgres, Axum, OpenAPI 3.1, sandboxed Nushell execution). Apache-2.0.
+- [`dapple-core`](https://github.com/DappleAI/dapple-core): Rust engine for structured, model-agnostic LLM workflows (Postgres, Axum, OpenAPI 3.1, sandboxed Nushell execution). Apache-2.0.
 - `research`: the papers and reports above, with summaries
 
 ## **Try it**
